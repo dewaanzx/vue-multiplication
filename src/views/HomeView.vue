@@ -37,7 +37,7 @@ export default {
 							fill="rgba(238,157,15,1)"></path>
 					</svg> <br> <br> <br>
 				</div>
-				<h2 class="text-2xl font-bold mb-4 text-center">Verification Sent</h2>
+				<h2 class="text-2xl font-bold mb-4 text-center">Verification Berhasil</h2>
 
 				<!-- Inputan pertama -->
 				<div class="w-40 mx-auto">
